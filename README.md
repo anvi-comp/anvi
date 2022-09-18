@@ -1,7 +1,7 @@
 ## Hello, geeks! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30px">
 
-[![Gmail Badge](https://img.shields.io/badge/-shreyasbhakta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreyasbhakta@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Shreyas%20Bhakta-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-bhakta-597021179/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-sharmaanvi750@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sharmaanvi750@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Anvi%20Sharma-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anvi-sharma-a16a161b3/ "Connect on LinkedIn")
 <br>
 Hi,Anvi here, a passionate developer who is enthusiatic to learn and explore new concepts and technologies.
 <br>
@@ -28,12 +28,12 @@ Also I'm into competetive programming and participating in various contests has 
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyasbhakta&show_icons=true&theme=dark" width="400"></td>
+<img src="https://github-readme-stats.vercel.app/api?username=anvi-comp&show_icons=true&theme=dark" width="400"></td>
   <td>
  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
  <h3> Reach me on:</h3>
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-bhakta-597021179/) 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anvi-sharma-a16a161b3/) 
 
 </td>
   <tr>
